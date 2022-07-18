@@ -82,8 +82,9 @@ NB: *Files can't be overwritten in the staging area.
 removes the files from the staging area.
 
 
-3. git diff:
-shows u the difference between the files in working directory and the staging area!!!
+3. git diff --staged (for Mac):
+    git diff (for windows):
+    shows u the difference between the files in working directory and the staging area!!!
 
 4. git diff --cached.
 shows the difference between the files in repo and the staging area!!!!!

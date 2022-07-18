@@ -99,6 +99,9 @@ remember !!!!! file/folder if a specific folder/file is being tracked, .gitignor
 That's why if one wants to ignore a file/folder it must be done at the very start,
 before adding that folder in staging area
 
+Press [command] +[shift] + [.] simultaneously to reveal all hidden files
+including [.gitignore] files
+
 1. touch .gitignore
 2. open this file add the name of the file or folder u want to ignore
 3. save the .gitignore file

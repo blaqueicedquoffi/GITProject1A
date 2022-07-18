@@ -6,5 +6,8 @@ public class Main {
         System.out.println("I'm the boss!!!");
         System.out.println("I'm the boss-man!!!");
         System.out.println("I'm the boss-lady!!!");
+
+       // System.out.println(10/0);
+        System.out.println("I'm the newly amended code");
     }
 }

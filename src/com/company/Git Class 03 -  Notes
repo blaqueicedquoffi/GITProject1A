@@ -46,9 +46,6 @@ adds everything to the staging area
 send everything in the staging area to the repo
 
 
-
-
-
 Github:
 for each local repo your must have a unique individual remote repo!!!
 
@@ -75,23 +72,23 @@ Head--> points to the latest commit that is present in your working directory.
 origin/main --?points to the commit in your local repo until which your remote repo is synchronised
 
 Extra git commands:
-1.git ls-files:
-Displays the files that are present in the staging area.
 
+1. git ls-files:
+Displays the files that are present in the staging area.
 
 NB: *Files can't be overwritten in the staging area.
 
-2.git rm --cached filename:
+2. git rm --cached filename:
 removes the files from the staging area.
 
 
-3.git diff:
+3. git diff:
 shows u the difference between the files in working directory and the staging area!!!
 
-4.git diff --cached.
+4. git diff --cached.
 shows the difference between the files in repo and the staging area!!!!!
 
-5.git restore .:
+5. git restore .:
 to move your files from staging area to working directory
 
 
